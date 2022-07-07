@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timothy</h1>
-<h3 align="center">A passionate frontend developer student from South Africa</h3>
+<h3 align="center">A passionate frontend developer in the making, from South Africa</h3>
 <h3 align="center">Experienced working with SQL, and NoSQL databases</h3>
 
 
